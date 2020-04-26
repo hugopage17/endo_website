@@ -15,7 +15,7 @@ class Body extends Component{
         <div>
           <a href={Endo} download='Endo.exe'>
             <button id='download_but'>Download for Windows
-              <p style={{fontSize:16}}>Version: 1.0.0</p>
+              <p style={{fontSize:16}}>Version: 1.0.1</p>
             </button>
           </a>
         </div>

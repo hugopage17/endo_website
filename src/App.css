@@ -114,14 +114,3 @@ hr { background-color: #00f9ff; height: 1px; border: 0; }
   background-color: #1c1c1c;
   color:white;
 }
-
-#github{
-  margin:auto;
-  width: 50%;
-  padding-top: 100px;
-  text-align: center;
-}
-
-.grey_color{
-  color:#6C757D;
-}
