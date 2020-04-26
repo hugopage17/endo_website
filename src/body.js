@@ -14,7 +14,7 @@ class Body extends Component{
       <div id='body_wrapper'>
         <div>
           <a href={Endo} download='Endo.exe'>
-            <button id='download_but'>Download for Windows
+            <button id='download_but'>Download for Windows 10
             </button>
           </a>
         </div>
